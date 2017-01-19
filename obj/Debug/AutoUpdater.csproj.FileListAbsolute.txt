@@ -1,0 +1,9 @@
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\bin\Debug\Auto_Updater.exe.config
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\bin\Debug\Auto_Updater.exe
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\bin\Debug\Auto_Updater.pdb
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\obj\Debug\AutoUpdater.csprojResolveAssemblyReference.cache
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\obj\Debug\Auto_Updater.Application.resources
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\obj\Debug\Auto_Updater.Properties.Resources.resources
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\obj\Debug\Auto_Updater.exe
+c:\users\dzzy\documents\visual studio 2015\Projects\AutoUpdater\obj\Debug\Auto_Updater.pdb
